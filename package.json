@@ -16,5 +16,8 @@
     "url": "https://github.com/lelox93/SevenSegmentClockWidgetWin10/issues"
   },
   "homepage": "https://github.com/lelox93/SevenSegmentClockWidgetWin10#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "electron": "^35.2.1"
+  }
 }
