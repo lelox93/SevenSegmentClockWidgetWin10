@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    background: transparent;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  #clock {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+    color: red;
+    letter-spacing: 5px;
+    text-shadow: 0 0 10px red, 0 0 20px red;
+  }
+  
